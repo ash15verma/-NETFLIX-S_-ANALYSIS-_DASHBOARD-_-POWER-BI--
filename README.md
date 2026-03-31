@@ -1,6 +1,4 @@
 # -NETFLIX-S_-ANALYSIS-_DASHBOARD-_-POWER-BI--
-<img width="1348" height="733" alt="Screenshot 2026-03-30 220446" src="https://github.com/user-attachments/assets/13717a7b-05b5-46d3-b06f-eec70ca32e14" />
-
 #  Project Overview
 * The Goal: To analyze the Netflix library to understand content distribution across countries, genres, and ratings.
 - The Dataset:Netflix Movies and TV Shows dataset.
