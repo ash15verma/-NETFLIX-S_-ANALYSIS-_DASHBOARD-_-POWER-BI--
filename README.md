@@ -1,8 +1,7 @@
 # -NETFLIX-S_-ANALYSIS-_DASHBOARD-_-POWER-BI--
 # - Project Overview
-Start with a high-level summary of what this dashboard represents.
-The Goal: To analyze the Netflix library to understand content distribution across countries, genres, and ratings.
-The Dataset:Netflix Movies and TV Shows dataset.
+* The Goal: To analyze the Netflix library to understand content distribution across countries, genres, and ratings.
+- The Dataset:Netflix Movies and TV Shows dataset.
 # -2. Key Insights & Findings
 
 Content Dominance: Highlight that Movies make up the vast majority of the library (roughly 86.68% based on your donut chart).
