@@ -62,9 +62,17 @@ VAR Intercept = SELECTCOLUMNS([Forecast_Stats], "Intercept", [Intercept])
 RETURN
     Intercept + (Slope * SELECTEDVALUE('Netflix_Data'[release_year]))
 
+
+📜License
+This project is licensed under the MIT License - see the LICENSE file for details. You are free to use, modify, and distribute this dashboard for personal or educational purposes, provided credit is given to the original author.
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! If you have suggestions for new DAX measures or better visualizations for this coffee shop data, feel free to check the issues page.
+
 # 🤝Contact & Contributions
 * I am always looking to improve my data storytelling and technical skills.
 - Feedback: If you have suggestions on how to improve the DAX logic or the UI/UX of this dashboard, please open an Issue or a Pull Request.
+- 
 * Connect with me:
 * 1 LinkedIn-www.linkedin.com/in/ashu-verma-386046212
 * 2 Email: ashuv098verma@gmail.com
